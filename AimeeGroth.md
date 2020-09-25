@@ -1,9 +1,7 @@
 文中提到的几个DAO平台
 
 [https://aragon.org/](https://aragon.org/)
-
 [https://colony.io/](https://colony.io/)
-
 [https://daostack.io/](https://daostack.io/)
 
 
@@ -41,7 +39,7 @@ DAOs famously emerged out of the 2008 financial crisis as the system design for 
 
 The 2016 hack of “The DAO”—a smart contract on the ethereum blockchain which raised $150 million and lost about a third of its assets—revealed critical vulnerabilities, proving these systems are not immune from rogue behavior, even though they are designed to promote and protect rational actors. But the popularity of The DAO also signaled real interest in this emergent organizational structure.
 
-There are a number of communities that are designed to support the creation of DAOs, including Aragon, Colony, and DAOStack. These organizations provide tools like dispute-resolution frameworks that aid in the scaling of decentralized networks. DAOs aren’t limited to a physical location and they “allow anyone in the world to create value,” says Aragon co-founder Luis Cuende.
+There are a number of communities that are designed to support the creation of DAOs, including [Aragon](https://aragon.org/), [Colony](https://colony.io/), and [DAOStack](https://daostack.io/). These organizations provide tools like dispute-resolution frameworks that aid in the scaling of decentralized networks. DAOs aren’t limited to a physical location and they “allow anyone in the world to create value,” says Aragon co-founder Luis Cuende.
 
 Among the biggest opportunities and challenges for DAOs is the process of developing new governance protocols. DAOs ask all of their participants to exercise true agency and self-sovereignty, behaviors that are not necessarily intuitive (and not always rewarded) in traditional corporate environments. Additionally, “as citizens we’ve become numb to the idea of a participatory-type of system,” Stratis Karad, a business developer at DAOStack, said on the “State of the DAO” panel discussion on the Emerge podcast. “If we give [this muscle] enough rest and good stimuli then this muscle will wake up again.”
 
