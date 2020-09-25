@@ -6,6 +6,9 @@
 
 [https://daostack.io/](https://daostack.io/)
 
+会议：
+http://www.blockchain-ieee.org/
+
 
 How can we design companies for human flourishing?
 Aimee Groth
