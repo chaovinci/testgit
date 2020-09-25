@@ -1,7 +1,9 @@
 文中提到的几个DAO平台
 
 [https://aragon.org/](https://aragon.org/)
+
 [https://colony.io/](https://colony.io/)
+
 [https://daostack.io/](https://daostack.io/)
 
 
